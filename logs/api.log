@@ -1,0 +1,108 @@
+12-04-2021 20:54:31.824 [Gauge] [INFO] Watching directory: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs
+12-04-2021 20:54:31.827 [Gauge] [DEBUG] Found 1 files
+12-04-2021 20:54:31.829 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+12-04-2021 20:54:31.830 [Gauge] [INFO] Initializing specs cache with 1 specs
+12-04-2021 20:54:31.830 [Gauge] [DEBUG] Adding specs from C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\example.spec
+12-04-2021 20:54:31.830 [Gauge] [INFO] Initializing steps cache with 1 steps
+12-04-2021 20:54:31.830 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54523
+12-04-2021 20:54:33.819 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that <key> is seen"}
+12-04-2021 20:54:33.820 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <key> is seen"  parameters:"key"}}
+12-04-2021 20:54:33.835 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Then click 'En yakın Akbank'"}
+12-04-2021 20:54:33.835 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Then click 'En yakın Akbank'"  parameterizedStepValue:"Then click 'En yakın Akbank'"}}
+12-04-2021 20:54:33.859 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that your location is shown correctly"}
+12-04-2021 20:54:33.860 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that your location is shown correctly"  parameterizedStepValue:"Check that your location is shown correctly"}}
+12-04-2021 20:55:23.648 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click menu bar on upper right corner"}
+12-04-2021 20:55:23.649 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click menu bar on upper right corner"  parameterizedStepValue:"Click menu bar on upper right corner"}}
+12-04-2021 20:55:23.656 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click 'ATM' at the bottom of screen"}
+12-04-2021 20:55:23.656 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click 'ATM' at the bottom of screen"  parameterizedStepValue:"Click 'ATM' at the bottom of screen"}}
+12-04-2021 20:55:23.659 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click on the third ATM option"}
+12-04-2021 20:55:23.660 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click on the third ATM option"  parameterizedStepValue:"Click on the third ATM option"}}
+12-04-2021 20:55:58.628 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click 'Yol Tarifi'"}
+12-04-2021 20:55:58.629 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click 'Yol Tarifi'"  parameterizedStepValue:"Click 'Yol Tarifi'"}}
+12-04-2021 20:55:58.644 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check Google Maps is opened for directions"}
+12-04-2021 20:55:58.644 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check Google Maps is opened for directions"  parameterizedStepValue:"Check Google Maps is opened for directions"}}
+12-04-2021 21:26:08.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+12-04-2021 21:26:08.181 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+12-04-2021 21:26:26.477 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+12-04-2021 21:26:26.478 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+12-04-2021 21:26:26.487 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+12-04-2021 21:26:26.488 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+12-04-2021 21:26:33.250 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"key\" is seen"}
+12-04-2021 21:26:33.251 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <key> is seen"  parameters:"key"}}
+12-04-2021 21:26:33.251 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"key\" is seen"}
+12-04-2021 21:26:33.251 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <key> is seen"  parameters:"key"}}
+12-04-2021 21:26:37.425 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+12-04-2021 21:26:37.425 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+12-04-2021 21:26:39.261 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+12-04-2021 21:26:39.261 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+12-04-2021 21:26:39.262 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+12-04-2021 21:26:39.262 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+12-04-2021 21:26:47.936 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"\" is seen"}
+12-04-2021 21:26:47.937 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <> is seen"  parameters:""}}
+12-04-2021 21:26:53.306 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\example.spec
+12-04-2021 21:26:53.308 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\example.spec
+12-04-2021 21:27:24.991 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"iyi\" is seen"}
+12-04-2021 21:27:24.992 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <iyi> is seen"  parameters:"iyi"}}
+12-04-2021 21:27:26.076 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"iyi \" is seen"}
+12-04-2021 21:27:26.077 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <iyi > is seen"  parameters:"iyi "}}
+12-04-2021 21:27:26.463 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"iyi ak\" is seen"}
+12-04-2021 21:27:26.464 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <iyi ak> is seen"  parameters:"iyi ak"}}
+12-04-2021 21:27:26.466 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"iyi ak\" is seen"}
+12-04-2021 21:27:26.468 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <iyi ak> is seen"  parameters:"iyi ak"}}
+12-04-2021 21:27:27.212 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"iyi akşamla\" is seen"}
+12-04-2021 21:27:27.212 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <iyi akşamla> is seen"  parameters:"iyi akşamla"}}
+12-04-2021 21:27:31.473 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\example.spec
+12-04-2021 21:27:31.482 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\example.spec
+12-04-2021 21:27:37.720 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi günler\" is seen"}
+12-04-2021 21:27:37.720 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi günler> is seen"  parameters:"İyi günler"}}
+12-04-2021 21:27:40.356 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi ak\" is seen"}
+12-04-2021 21:27:40.370 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi ak> is seen"  parameters:"İyi ak"}}
+12-04-2021 21:27:40.379 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi ak\" is seen"}
+12-04-2021 21:27:40.380 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi ak> is seen"  parameters:"İyi ak"}}
+12-04-2021 21:27:40.709 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi akşa\" is seen"}
+12-04-2021 21:27:40.709 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi akşa> is seen"  parameters:"İyi akşa"}}
+12-04-2021 21:27:41.092 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi akşam\" is seen"}
+12-04-2021 21:27:41.092 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi akşam> is seen"  parameters:"İyi akşam"}}
+12-04-2021 21:27:41.093 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi akşam\" is seen"}
+12-04-2021 21:27:41.093 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi akşam> is seen"  parameters:"İyi akşam"}}
+12-04-2021 21:27:42.094 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi akşamla\" is seen"}
+12-04-2021 21:27:42.094 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi akşamla> is seen"  parameters:"İyi akşamla"}}
+12-04-2021 21:27:42.428 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi akşamlar\" is seen"}
+12-04-2021 21:27:42.428 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi akşamlar> is seen"  parameters:"İyi akşamlar"}}
+12-04-2021 21:27:48.130 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\example.spec
+12-04-2021 21:27:48.133 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\example.spec
+13-04-2021 00:38:16.364 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\example.spec
+13-04-2021 00:38:16.367 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\example.spec
+13-04-2021 00:38:54.017 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi gec\" is seen"}
+13-04-2021 00:38:54.018 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi gec> is seen"  parameters:"İyi gec"}}
+13-04-2021 00:38:54.018 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi gec\" is seen"}
+13-04-2021 00:38:54.019 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi gec> is seen"  parameters:"İyi gec"}}
+13-04-2021 00:38:54.356 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi gece\" is seen"}
+13-04-2021 00:38:54.356 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi gece> is seen"  parameters:"İyi gece"}}
+13-04-2021 00:38:54.364 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi gece\" is seen"}
+13-04-2021 00:38:54.364 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi gece> is seen"  parameters:"İyi gece"}}
+13-04-2021 00:38:55.499 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi geceler\" is seen"}
+13-04-2021 00:38:55.500 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi geceler> is seen"  parameters:"İyi geceler"}}
+13-04-2021 00:38:55.502 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi geceler\" is seen"}
+13-04-2021 00:38:55.502 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi geceler> is seen"  parameters:"İyi geceler"}}
+13-04-2021 00:38:56.337 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\example.spec
+13-04-2021 00:38:56.341 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\example.spec
+13-04-2021 01:10:24.052 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi gü\" is seen"}
+13-04-2021 01:10:24.054 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi gü> is seen"  parameters:"İyi gü"}}
+13-04-2021 01:10:24.055 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi gü\" is seen"}
+13-04-2021 01:10:24.055 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi gü> is seen"  parameters:"İyi gü"}}
+13-04-2021 01:10:51.149 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\example.spec
+13-04-2021 01:10:51.152 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\example.spec
+13-04-2021 10:33:10.355 [Gauge] [INFO] Watching directory: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs
+13-04-2021 10:33:10.356 [Gauge] [DEBUG] Found 1 files
+13-04-2021 10:33:10.367 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+13-04-2021 10:33:10.368 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\example.spec
+13-04-2021 10:33:10.369 [Gauge] [INFO] Initializing specs cache with 1 specs
+13-04-2021 10:33:10.369 [Gauge] [DEBUG] Adding specs from C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\example.spec
+13-04-2021 10:33:10.369 [Gauge] [INFO] Initializing steps cache with 1 steps
+13-04-2021 10:33:10.369 [Gauge] [INFO] Gauge daemon initialized and listening on port: 63091
+13-04-2021 10:35:22.996 [Gauge] [INFO] Spec file removed: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\example.spec
+13-04-2021 10:35:22.997 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\akbankMobile.spec
+13-04-2021 10:35:22.998 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\akbankMobile.spec
+13-04-2021 13:23:22.323 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\akbankMobile.spec
+13-04-2021 13:23:22.326 [Gauge] [INFO] Spec file added / modified: C:\Users\ASUS\IdeaProjects\MobileAutomationProject\specs\akbankMobile.spec

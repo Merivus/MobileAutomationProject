@@ -1,0 +1,40 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 4549milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 4549"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'Tests.MapControlTest.clickMenu' and 'Tests.MapControlTest.clickMenu'"}
+{"logLevel":"debug","message":"Found Click menu bar on upper right corner in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.MapControlTest.isEndPointVisible' and 'Tests.MapControlTest.isEndPointVisible'"}
+{"logLevel":"debug","message":"Found Check Google Maps is opened for directions in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.HomeTest.clickNearestAkbank' and 'Tests.HomeTest.clickNearestAkbank'"}
+{"logLevel":"debug","message":"Found Then click 'En yakın Akbank' in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.HomeTest.controlTitle' and 'Tests.HomeTest.controlTitle'"}
+{"logLevel":"debug","message":"Found Check that {} is seen in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.HomeTest.controlLocation' and 'Tests.HomeTest.controlLocation'"}
+{"logLevel":"debug","message":"Found Check that your location is shown correctly in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.MapControlTest.clickThirdAtm' and 'Tests.MapControlTest.clickThirdAtm'"}
+{"logLevel":"debug","message":"Found Click on the third ATM option in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.MapControlTest.clickLocations' and 'Tests.MapControlTest.clickLocations'"}
+{"logLevel":"debug","message":"Found Click 'Yol Tarifi' in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.MapControlTest.clickAtmButton' and 'Tests.MapControlTest.clickAtmButton'"}
+{"logLevel":"debug","message":"Found Click 'ATM' at the bottom of screen in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tCheck that {} is seen : public void controlTitle(String key)"}
+{"logLevel":"debug","message":"\tThen click 'En yakın Akbank' : public void clickNearestAkbank()"}
+{"logLevel":"debug","message":"\tClick on the third ATM option : public void clickThirdAtm()"}
+{"logLevel":"debug","message":"\tCheck Google Maps is opened for directions : public void isEndPointVisible()"}
+{"logLevel":"debug","message":"\tClick 'Yol Tarifi' : public void clickLocations()"}
+{"logLevel":"debug","message":"\tClick menu bar on upper right corner : public void clickMenu()"}
+{"logLevel":"debug","message":"\tCheck that your location is shown correctly : public void controlLocation()"}
+{"logLevel":"debug","message":"\tClick 'ATM' at the bottom of screen : public void clickAtmButton()"}
+{"logLevel":"debug","message":"started gRPC server on port 56781"}
+{"logLevel":"info","message":"Listening on port:56781"}
+Nis 13, 2021 12:38:47 ÖÖ io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Check that {} is seen' using 'class Tests.HomeTest.controlTitle"}
